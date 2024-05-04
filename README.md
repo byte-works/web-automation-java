@@ -1,2 +1,2 @@
-# web-automation-java
- Web Automation with Java and Selenium
+# Web Automation with Java and Selenium
+
